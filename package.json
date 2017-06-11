@@ -1,0 +1,32 @@
+{
+  "name": "oss-uploader",
+  "main": "./lib/main",
+  "version": "0.4.0",
+  "description": "oss uploader plugin for markdown-assistant",
+  "keywords": [
+    "aliyun",
+    "aliyun-oss",
+    "oss",
+    "markdown-assistant",
+    "uploader",
+    "oss-uploader",
+    "qiniu-uploader"
+  ],
+  "author": {
+    "name": "airclear",
+    "email": "lihang4work@gmail.com",
+    "url": "https://github.com/airclear"
+  },
+  "activationCommands": {
+    "atom-workspace": "oss-uploader:toggle"
+  },
+  "repository": "https://github.com/airclear/oss-uploader",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "ali-oss": "^4.8.0",
+    "co": "^4.6.0"
+  }
+}
