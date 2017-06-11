@@ -2,7 +2,7 @@
   "name": "oss-uploader",
   "main": "./lib/main",
   "version": "0.8.0",
-  "description": "oss uploader plugin for markdown-assistant",
+  "description": "aliyun oss uploader plugin for markdown-assistant",
   "keywords": [
     "aliyun",
     "aliyun-oss",
